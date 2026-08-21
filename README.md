@@ -1,1 +1,1 @@
-# Acad-mico
+# Academico
